@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there My name is Iori, yes, the same as the character from The King of Fighters.
+ 
+![KOF 98 _ Tumblr](https://github.com/user-attachments/assets/f719787d-4558-42d6-9482-40fd701fc036)
 
 <!--
 **Iorilima019/Iorilima019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/user-attachments/assets/83cc864a-eeb3-4909-ba31-df2202bfbe18
+
+
 -->
+
+
+
