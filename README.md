@@ -1,4 +1,3 @@
-```markdown
 ## Hi there. My name is Iori, yes, the same as the character from The King of Fighters. 👋
 
 <img src="https://github.com/user-attachments/assets/f719787d-4558-42d6-9482-40fd701fc036" width="120" align="right">
