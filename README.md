@@ -31,7 +31,7 @@ public class Iori
 - 💻 Passionate about software development
 - 🚀 Constantly improving through personal projects
 - 🎮 Fan of **The King of Fighters** and **Genshin Impact**
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e5896a5-4a79-496a-bea4-81f26cfa2650/dlcupf3-6af96aa8-1b50-4d1f-a2ed-68914e9027ac.png/v1/fill/w_1280,h_756/columbina_genshin_impact_full_body_render_by_deg5270_dlcupf3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzU2IiwicGF0aCI6Ii9mLzVlNTg5NmE1LTRhNzktNDk2YS1iZWE0LTgxZjI2Y2ZhMjY1MC9kbGN1cGYzLTZhZjk2YWE4LTFiNTAtNGQxZi1hMmVkLTY4OTE0ZTkwMjdhYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bw6YK5rRhr1B-Z_20lmDXCtYrP8h2YztFtTEIIT9EwE" width="260"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e5896a5-4a79-496a-bea4-81f26cfa2650/dlcupf3-6af96aa8-1b50-4d1f-a2ed-68914e9027ac.png/v1/fill/w_1280,h_756/columbina_genshin_impact_full_body_render_by_deg5270_dlcupf3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzU2IiwicGF0aCI6Ii9mLzVlNTg5NmE1LTRhNzktNDk2YS1iZWE0LTgxZjI2Y2ZhMjY1MC9kbGN1cGYzLTZhZjk2YWE4LTFiNTAtNGQxZi1hMmVkLTY4OTE0ZTkwMjdhYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bw6YK5rRhr1B-Z_20lmDXCtYrP8h2YztFtTEIIT9EwE"/>
 ---
 
 ## 🛠 Technologies
@@ -52,15 +52,16 @@ public class Iori
 - 🤝 Contribute to Open Source projects
 
 ---
-<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="260"/>
+
 
 <div align="center">
-
+<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="200"/>
+    
 ### Thanks for visiting my profile!
 
 *"Every project is another step toward becoming a better developer."*
 
+<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="200"/>
 </div>
-<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="260"/>
 
 ````
