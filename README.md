@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Iori
+# 👋 Hi there, I'm Iori!
 
-### *Yes... just like **Iori Yagami** from The King of Fighters.*
+### *Yes, just like **Iori Yagami** from The King of Fighters.*
 
-<img src="https://github.com/user-attachments/assets/f719787d-4558-42d6-9482-40fd701fc036" width="180"/>
+<img src="https://github.com/user-attachments/assets/f719787d-4558-42d6-9482-40fd701fc036" width="170"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E60026&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Python+Developer;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C1121F&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Back-end+Developer+in+Training;Always+Learning+Something+New"/>
+
+</div>
 
 ---
 
@@ -16,68 +18,45 @@
 public class Iori {
 
     String name = "Iori Lima";
-    String country = "Brazil";
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript"
-    };
+    String studying = "Computer Science";
 
-    String[] interests = {
-        "Back-end",
-        "Games",
-        "Open Source",
-        "Automation",
-        "APIs"
-    };
+    String focus = "Java Back-end";
 
-    String motto = "Code. Learn. Repeat.";
+    String currentGoal = "Become a Full Stack Developer";
+
 }
 ```
 
+- 🎓 Computer Science student
+- ☕ Learning **Java** and **Spring Boot**
+- 🌱 Studying **HTML**, **CSS** and **JavaScript**
+- 💻 Building projects to improve my skills
+- 🎮 Fan of **The King of Fighters** and **Genshin Impact**
+
 ---
 
-## 🔥 Tech Stack
+## 🛠 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,react,nodejs,mysql,postgres,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 Iori Yagami Mode
+## 🎮 Favorite Games
 
-> *"Power isn't given... it's earned."*
+🔥 **The King of Fighters**
 
-<p align="center">
+⚡ **Genshin Impact**
 
-<img src="https://media.tenor.com/7L1M4K5mY6gAAAAC/iori-yagami.gif" width="350"/>
-
-</p>
+> Every new project is another opportunity to level up.
 
 ---
 
-# 🌌 Currently Exploring
-
-✨ Genshin Impact
-
-- ⚡ Teyvat Lore
-- 🌸 Character Builds
-- 🎮 RPG Mechanics
-- 💎 Exploration
-
-<p align="center">
-
-<img src="https://media.tenor.com/Qv8g8hN7rQ8AAAAC/genshin-impact.gif" width="350"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -89,48 +68,23 @@ public class Iori {
 
 ---
 
-# 🔥 Contribution Streak
+## 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Iorilima019&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iorilima019&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
+- ✅ Improve my Java skills
+- 🔄 Learn Spring Boot
+- 🔄 Build more personal projects
+- 🔄 Learn React
+- 🔄 Contribute to Open Source
 
 ---
 
-# 🌐 Connect with me
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting!
 
-<a href="https://github.com/Iorilima019">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+*"Keep coding. Keep learning. Keep evolving."*
 
-</p>
+</div>
 
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-*"Like Iori Yagami, I keep moving forward.*
-
-*Like the Traveler in Teyvat, there's always another adventure waiting."
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8B0000&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C1121F&height=120&section=footer"/>
 ````
