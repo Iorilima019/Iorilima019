@@ -55,13 +55,12 @@ public class Iori
 
 
 <div align="center">
-<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="200"/>
     
 ### Thanks for visiting my profile!
 
-*"Every project is another step toward becoming a better developer."*
+<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="100"/>*"Every project is another step toward becoming a better developer."* <img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="100"/>
 
-<img src="https://cucucovers.com/cdn/shop/products/0122b.png?v=1762201111&width=450" width="200"/>
+
 </div>
 
 ````
