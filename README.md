@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm Iori!
-<div style='background: url(https://cdng.europosters.eu/pod_public/1300/271342.jpg)'>
+<div style='background-image: url("https://cdng.europosters.eu/pod_public/1300/271342.jpg")'>
     
 ### *Yes, just like **Iori Yagami** from The King of Fighters.*
 
